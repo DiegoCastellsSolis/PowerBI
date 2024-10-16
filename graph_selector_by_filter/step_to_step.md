@@ -1,3 +1,3 @@
 
 
-![step 1](../images/nombre_del_directorio/nombre_de_la_imagen.extension)
+![step 1](https://github.com/DiegoCastellsSolis/PowerBI/blob/main/images/file_raw_git_1.png)
