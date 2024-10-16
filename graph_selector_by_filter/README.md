@@ -7,7 +7,10 @@ Copia la URL de acceso al arhivo
 
 ![step 2](https://github.com/DiegoCastellsSolis/PowerBI/blob/main/images/file_raw_git_2.png)
 
-Dirige hacia PowerBI
+Dirige hacia PowerBI.
 
+Haz click en la pestaña INICIO , y haz click en OBTENER DATOS.
 ![step 3](https://github.com/DiegoCastellsSolis/PowerBI/blob/main/images/file_raw_git_3.png)
+
+Posterior a esto copia el link obtenido inicialmente
 ![step 4](https://github.com/DiegoCastellsSolis/PowerBI/blob/main/images/file_raw_git_4.png)
